@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "name": "openstack-wrapper-ng",
   "description": "A simple js wrapper for the Openstack APIs",
   "contributors": [
